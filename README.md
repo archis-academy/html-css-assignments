@@ -1,16 +1,8 @@
-<h3>HTML ASSIGNMENTS</h3>
+<h3>HTML/CSS ASSIGNMENTS</h3>
 
 
-<h3>1. Survey Form</h3>
+**Landing Page**
 
+A landing page is another good project you can make using HTML and CSS but it requires a solid knowledge of these two building blocks. You will be using lots of creativity while making a landing page. You will practice how to add footer and header, create columns, align-items, divide the sections and a lot of things. You will have to use CSS carefully keeping in mind that different elements do not overlap with each other. You will also take care of color combinations, padding, margin, space between sections, paragraphs, and boxes.
 
-The survey form is one of the most straightforward HTML projects you can start. In this project, we will create a simple survey form and then submit the information captured. You can open any text editor to write your code, and save your file with .html extension. For example, survey.html
-
-You will learn about basic input tags, form creation, radio buttons, checkboxes, etc.
-
-<h3>2. Technical Documentation Page</h3>
-
-
-Every language, software, hardware, etc. has technical documentation for information and help. Here is how you can create a simple documentation page, with internal linking from the left navigation to the content on the right of the page.
-
-<h3>3. Create a Login and Signup Page</h3>
+This is the  [figma design]([https://www.figma.com/file/vsWp3PQSZbHkXyQgDRItpd/App-Landing-Pagehttps://www.figma.com/file/vsWp3PQSZbHkXyQgDRItpd/App-Landing-Page](https://www.figma.com/file/vsWp3PQSZbHkXyQgDRItpd/App-Landing-Pagehttps://www.figma.com/file/vsWp3PQSZbHkXyQgDRItpd/App-Landing-Page))
