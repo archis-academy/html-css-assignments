@@ -6,4 +6,6 @@ The header includes
 2. Horizontal menu of inks includes (About,Products,Pricing,Blog,Jobs,More).
 3. Two icons ( Google Play and Apple Store) on to the right.
 
+![alt](https://github.com/archis-academy/html-css-assignments/blob/master/Assignment-1-Header/7.png?raw=true)
+
 Make sure to create responsive design.
